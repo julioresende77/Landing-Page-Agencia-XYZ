@@ -3,11 +3,11 @@ Initial structure of the Landing Page Project with Grid of the DevQuest course.
 
 project images:
 ### Screenshot
-[](./design/desktop-preview-1.png)
-[](./design/desktop-preview-2.png)
-[](./design/desktop-preview-3.png)
-[](./design/mobile-preview-1.png)
-[](./design/mobile-preview-2.png)
+![](./design/desktop-preview-1.png)
+![](./design/desktop-preview-2.png)
+![](./design/desktop-preview-3.png)
+![](./design/mobile-preview-1.png)
+![](./design/mobile-preview-2.png)
 
 
 ### Links
